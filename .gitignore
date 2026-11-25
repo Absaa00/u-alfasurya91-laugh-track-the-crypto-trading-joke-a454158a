@@ -1,0 +1,13 @@
+# Laugh Track entry — local build leftovers for this one-line joke repo
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+/output/
+bundle.tar.gz
+*.tar.gz
+.venv/
+venv/
